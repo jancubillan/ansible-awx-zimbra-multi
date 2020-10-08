@@ -1,0 +1,4 @@
+---
+- hosts: zimbra_all 
+  roles:
+  - ansible-awx-zimbra-multi
