@@ -7,7 +7,7 @@ Requirements
 ------------
 
 1) Must be a fresh CentOS 8 minimal installation
-2) Ansible control node must have the "netaddr" Python module installed
+2) Ansible AWX node must have the "netaddr" Python module installed
 
 Role Variables
 --------------
